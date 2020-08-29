@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15619" started-at="2020-08-29T17:49:31Z" finished-at="2020-08-29T17:49:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15619" started-at="2020-08-29T17:49:31Z" finished-at="2020-08-29T17:49:46Z">
+      <class name="org.testing.TestScripts.TC8">
+        <test-method status="PASS" signature="TestCase8()[pri:0, instance:org.testing.TestScripts.TC8@29f69090]" name="TestCase8" duration-ms="77" started-at="2020-08-29T23:19:46Z" finished-at="2020-08-29T23:19:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase8 -->
+      </class> <!-- org.testing.TestScripts.TC8 -->
+      <class name="org.testing.TestScripts.TC7">
+        <test-method status="PASS" signature="TestCase7()[pri:0, instance:org.testing.TestScripts.TC7@4ae3c1cd]" name="TestCase7" duration-ms="4" started-at="2020-08-29T23:19:46Z" finished-at="2020-08-29T23:19:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase7 -->
+      </class> <!-- org.testing.TestScripts.TC7 -->
+      <class name="org.testing.TestScripts.TC6">
+        <test-method status="PASS" signature="TestCase6()[pri:0, instance:org.testing.TestScripts.TC6@3bbc39f8]" name="TestCase6" duration-ms="902" started-at="2020-08-29T23:19:45Z" finished-at="2020-08-29T23:19:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase6 -->
+      </class> <!-- org.testing.TestScripts.TC6 -->
+      <class name="org.testing.TestScripts.DeleteRequestTestCase">
+        <test-method status="PASS" signature="TestCase5()[pri:0, instance:org.testing.TestScripts.DeleteRequestTestCase@5ea434c8]" name="TestCase5" duration-ms="29" started-at="2020-08-29T23:19:45Z" finished-at="2020-08-29T23:19:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase5 -->
+      </class> <!-- org.testing.TestScripts.DeleteRequestTestCase -->
+      <class name="org.testing.TestScripts.PutRequestTestCase">
+        <test-method status="PASS" signature="TestCase4()[pri:0, instance:org.testing.TestScripts.PutRequestTestCase@5d47c63f]" name="TestCase4" duration-ms="1222" started-at="2020-08-29T23:19:44Z" finished-at="2020-08-29T23:19:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase4 -->
+      </class> <!-- org.testing.TestScripts.PutRequestTestCase -->
+      <class name="org.testing.TestScripts.GetRequest">
+        <test-method status="PASS" signature="TestCase2()[pri:0, instance:org.testing.TestScripts.GetRequest@4de5031f]" name="TestCase2" duration-ms="862" started-at="2020-08-29T23:19:43Z" finished-at="2020-08-29T23:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+      </class> <!-- org.testing.TestScripts.GetRequest -->
+      <class name="org.testing.TestScripts.GetRequestWithAllData">
+        <test-method status="PASS" signature="TestCase3()[pri:0, instance:org.testing.TestScripts.GetRequestWithAllData@67e2d983]" name="TestCase3" duration-ms="552" started-at="2020-08-29T23:19:43Z" finished-at="2020-08-29T23:19:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase3 -->
+      </class> <!-- org.testing.TestScripts.GetRequestWithAllData -->
+      <class name="org.testing.TestScripts.PostRequestTestCase">
+        <test-method status="PASS" signature="TestCase1()[pri:0, instance:org.testing.TestScripts.PostRequestTestCase@525f1e4e]" name="TestCase1" duration-ms="11703" started-at="2020-08-29T23:19:31Z" finished-at="2020-08-29T23:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+      </class> <!-- org.testing.TestScripts.PostRequestTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

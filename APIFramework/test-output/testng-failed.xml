@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="org.testing.TestScripts.GetRequest">
+        <methods>
+          <include name="TestCase2"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.GetRequest -->
+      <class name="org.testing.TestScripts.GetRequestWithAllData">
+        <methods>
+          <include name="TestCase3"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.GetRequestWithAllData -->
+      <class name="org.testing.TestScripts.DeleteRequestTestCase">
+        <methods>
+          <include name="TestCase5"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.DeleteRequestTestCase -->
+      <class name="org.testing.TestScripts.PostRequestTestCase">
+        <methods>
+          <include name="TestCase1"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.PostRequestTestCase -->
+      <class name="org.testing.TestScripts.PutRequestTestCase">
+        <methods>
+          <include name="TestCase4"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.PutRequestTestCase -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
